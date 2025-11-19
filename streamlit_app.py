@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 Protein-Protein Interaction App')
 
-st.write('Hello world!')
+st.write('This is a PPI machine learning app!')
